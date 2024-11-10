@@ -2,7 +2,9 @@
 Ejemplo para clase de GitHub 2024
 
 # Coder
-Hola, yo soy Lucrecia Babatz y mi correo es lucreciababatz@gmail.com
+## Hola, yo soy Lucrecia Babatz y mi correo es lucreciababatz@gmail.com
+## My nickname is Lu!
+
 
 
 # Key commands
