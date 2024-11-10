@@ -2,8 +2,8 @@
 Ejemplo para clase de GitHub 2024
 
 # Coder
-Lucrecia Babatz
-lucreciababatz@gmail.com
+Hola, yo soy Lucrecia Babatz y mi correo es lucreciababatz@gmail.com
+
 
 # Key commands
 ### To add files into a commit
